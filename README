@@ -1,0 +1,6 @@
+NotSwing is a lightweight widget toolkit with very simple, intuitive components.
+
+This was a LinkedIn Hackday project (see http://hackday2011.linkedin.com/), so
+the code is not very clean. NotSwing also lacks some important functionality
+that you would expect from a widget toolkit, like editable textboxes. It does
+have a neat demo, though!
